@@ -3,7 +3,7 @@
   "private": true,
   "description": "Moodle",
   "devDependencies": {
-    "@babel/core": "7.17.5",
+    "@babel/core": "7.29.7",
     "@babel/eslint-parser": "^7.21.3",
     "@babel/plugin-proposal-class-properties": "7.16.7",
     "@babel/plugin-proposal-json-strings": "7.16.7",
